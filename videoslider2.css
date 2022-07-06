@@ -21,8 +21,8 @@ body{
 .container .box
 {
   position: relative;
-  width: 50%;
-  height: 100vh;
+  width: 100%;
+  height: 50vh;
  
    border: 3px solid #000;
 }
@@ -49,5 +49,7 @@ body{
 
   filter: grayscale(0);
 }
+
+
 
 
